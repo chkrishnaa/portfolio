@@ -1,0 +1,30 @@
+[
+    {
+        "skill": "HTML",
+        "percent": "90"
+    },
+    {
+        "skill": "CSS",
+        "percent": "72"
+    },
+    {
+        "skill": "JavaScript",
+        "percent": "56"
+    },
+    {
+        "skill": "React JS",
+        "percent": "58"
+    },
+    {
+        "skill": "C",
+        "percent": "70"
+    },
+    {
+        "skill": "Java",
+        "percent": "54"
+    },
+    {
+        "skill": "Python",
+        "percent": "64"
+    }
+]
